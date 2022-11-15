@@ -1,0 +1,11 @@
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 6% 15px 0;
+    background-color: red;
+    color: #fff;
+}
